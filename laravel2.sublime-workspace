@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"rou",
+				"rounded-lg"
+			],
+			[
+				"ro",
+				"rounded-lg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/DashboardController.php",
+			"settings":
+			{
+				"buffer_size": 370,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/routes"
+	],
+	"file_history":
+	[
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/dashboard.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/layouts/app.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/public/css/style.css",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/Auth/LoginController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/Auth/LogoutController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/routes/web.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/Auth/RegisterController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/User.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/auth/login.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/auth/register.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/HomeController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/database/migrations/2021_02_03_042027_add_username_to_users_table.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/home.blade.php",
+		"/home/qwerty/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/qwerty/code/acme/mosh.html",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/resources/views/posts/posts.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Ih.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/IhController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/database/migrations/2021_02_01_080959_create_ihs_table.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Post.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/PostLikeController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/User.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/routes/web.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/posts/index.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Like.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/database/factories/PostFactory.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/PostController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/database/migrations/2021_01_26_130046_create_likes_table.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/.env",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/DashboardController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/database/migrations/2021_01_26_112117_create_posts_table.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/Auth/RegisterController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/layouts/app.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/auth/login.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/Auth/LogoutController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/Auth/LoginController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Providers/RouteServiceProvider.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/home.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/dashboard.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Models/User.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/auth/register.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/public/css/app.css",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/app/Http/Controllers/RegisterController.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/package.json",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/node_modules/laravel-mix/src/Mix.js",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/webpack.mix.js",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/tailwind.config.js",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/css/app.css",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/database/migrations/2021_01_24_042209_add_username_to_users_table.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/resources/views/welcome.blade.php",
+		"/media/qwerty/EVRY ONE/i.H/code/laravel/posty/vendor/symfony/routing/Route.php",
+		"/home/qwerty/Downloads/glass-website-master/home.html",
+		"/home/qwerty/Downloads/glass-website-master/home.css",
+		"/home/qwerty/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/qwerty/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/qwerty/EVRY ONE/i.H/code/laravel2/ihPosty/app/Http/Controllers/DashboardController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel2.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"App/u",
+				"app/User.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"PostL",
+				"app/Http/Controllers/PostLikeController.php"
+			],
+			[
+				"index.blade",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"PostC",
+				"app/Http/Controllers/PostController.php"
+			],
+			[
+				"DashboardC",
+				"app/Http/Controllers/DashboardController.php"
+			],
+			[
+				"posts/",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"DashB",
+				"app/Http/Controllers/DashboardController.php"
+			],
+			[
+				"RegisterC",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"laravelmix",
+				"node_modules/laravel-mix/src/Mix.js"
+			],
+			[
+				"views/w",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"routes/we",
+				"routes/web.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"route",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
